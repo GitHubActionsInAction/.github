@@ -4,6 +4,7 @@ This org contains the companion repositories for the book [GitHub Actions in Act
 
 ## Part 1:  Action Fundamentals
 
+<!-- markdownlint-disable MD029 -->
 1. Introduction to GitHub Actions  
 2. Hands-on: My first Actions Workflow
    > The hands-on is done in a new repository - but you can find the corresponding code in [Part 1](https://github.com/GitHubActionsInAction/Part1)
