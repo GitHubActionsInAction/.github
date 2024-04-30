@@ -19,7 +19,7 @@ This org contains the companion repositories for the book [GitHub Actions in Act
 7. Managing your self-hosted runners
 
 ## Part 3:  CI/CD with GitHub Actions
-for this part you can use the repository [globoticket](https://github.com/GitHubActionsInAction/Globoticket). This contains an application to sel tickets online and contains all the sample workflows used int he book to build the full CI/CD workflows.  You find the workflows in the `.github/workflows` folder.  
+For this part you can use the repository [globoticket](https://github.com/GitHubActionsInAction/Globoticket). This contains an application to sel tickets online and contains all the sample workflows used int he book to build the full CI/CD workflows.  You find the workflows in the `.github/workflows` folder.  
 
 8. Continuous Integration
 9. Continuous Delivery
